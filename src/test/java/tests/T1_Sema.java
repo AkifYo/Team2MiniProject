@@ -11,4 +11,6 @@ public class T1_Sema {
     //2-Arama kutusunu locate ediniz.
     //3-"Java" kelimesini aratiniz.
     //4-Cikan sonuclar arasinda java kelimesinin gectigini test ediniz.
+
+
 }
