@@ -42,6 +42,7 @@ public class T4_Efe {
         qualityDemyPage.continueButonu.click();
         //Her defasinda yani her Otomasyonda gmail ime yeni verification kodu geliyor o yüzden bundan
         //sonrasi biz tester lari asiyor arkadaslar:):)
+        softAssert.assertAll();
     }
 //6- ilgili kursunu sepette olup olmadigini test ediniz.
 
