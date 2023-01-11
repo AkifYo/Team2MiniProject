@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import pages.QualityDemyPage;
 import utilities.ConfigReader;
-import utilities.Driver;
+import Utilities.Driver;
 import utilities.ReusableMethods;
 
 public class T4_Efe {
