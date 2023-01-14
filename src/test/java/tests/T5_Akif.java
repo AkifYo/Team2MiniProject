@@ -1,7 +1,8 @@
 package tests;
 
+import Utilities.Driver;
 
-public class T5_Akif {
+public class T5_Akif  {
     //github instructions
     //1- projeyi github uzerinden pull ediniz
     //2- projeyi intelij de actiktdan sonra kendi branchinizi olusturunuz.
@@ -11,8 +12,7 @@ public class T5_Akif {
     //1-Qualitydemy anasayfasina gidiniz.
 
 
-
-    //2-sign up butonunu locate edip tiklayiniz.
+//2-sign up butonunu locate edip tiklayiniz.
     //3-ilgili formu doldurarak kayit olunuz.
     //4-kayitli email ve sifre ile giris yapabildiginizi test ediniz.
     //5- sayfaya giris yaptiktan sonra ilk cikan kursu sepete atiniz
