@@ -12,4 +12,12 @@ public class T6_Murat {
     //3-"Language" kelimesini aratiniz.
     //4-Cikan sonuclar arasinda language kelimesinin gectigini test ediniz.
     //5-Cikan butun kurslarin textlerini alarak yazdiriniz
+
+
+    public static void main(String[] args) {
+        System.out.println("Hello TestNG");
+    }
+
+
+
 }
