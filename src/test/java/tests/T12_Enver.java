@@ -12,13 +12,14 @@ import utilities.ReusableMethods;
 
 public class T12_Enver {
 
-    public static void main(String[] args) {
-        System.out.println("daawdaaw" +
-                "faeffea");
-    }
+
+
+
+
 
 
     }
     //6- ilgili kursunu sepette olup olmadigini test ediniz.
+
 
 
