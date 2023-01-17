@@ -51,6 +51,7 @@ public class T11_Heysem {
         ReusableMethods.wait(2);
 
 
+        ReusableMethods.wait(3);
         Assert.assertTrue(qualityDemyPage.basariliGirisCoursesLinki.isDisplayed());
         //5- sayfaya giris yaptiktan sonra ilk cikan kursu sepete atiniz
 
