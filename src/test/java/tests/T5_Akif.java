@@ -18,4 +18,5 @@ public class T5_Akif  {
     //5- sayfaya giris yaptiktan sonra ilk cikan kursu sepete atiniz
     //6- ilgili kursunu sepette olup olmadigini test ediniz.
     //7- kursun satin almaya calisarak odeme yapilabildigini test edin.
+    //8- bu projeler guzeldi
 }
